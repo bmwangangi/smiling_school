@@ -9,7 +9,7 @@ Implement 3 web pages with bootstrap, using all HTML/CSS/Accessibility/Responsiv
 The objective is simple: Have a fully functional web page that looks the same as the designer file.
 
 ![smile-school](https://github.com/Mahiuha/alx-smiling-school/assets/35099243/003340c8-c93f-4623-96b7-9c017bdf1194)
-> This webpage has been designed by Nicolas Philippot, UI/UX designer.
+
 
 ## Live demo:computer:
 [Smile School](https://Mahiuha.github.io/alx-smiling-school/homepage.html)
@@ -26,4 +26,4 @@ The objective is simple: Have a fully functional web page that looks the same as
 ---
 
 ## Author
-* **Joseph Mahiuha** - [Mahiuha](https://github.com/Mahiuha) - [twitter:speech_balloon:](https://twitter.com/Joseph_Mahiuha)
+* **Bartasa Mwangangi** - [Bmwangangi](https://github.com/bmwangangi/smiling_school/tree/main/alx-smiling-school-main/alx-smiling-school-main) 
